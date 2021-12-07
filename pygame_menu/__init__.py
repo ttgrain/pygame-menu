@@ -88,7 +88,7 @@ import pygame_menu.version
 """
 Metadata: Information about the project
 """
-__author__ = 'Pablo Pizarro R.'
+__author__ = 'deez nuts east'
 __contributors__ = [
 
     # Author
@@ -115,10 +115,10 @@ __contributors__ = [
     'zPaw'
 
 ]
-__copyright__ = 'Copyright 2017-2021 Pablo Pizarro R. @ppizarror'
-__description__ = 'A menu for pygame. Simple, and easy to use'
-__email__ = 'pablo@ppizarror.com'
-__keywords__ = 'pygame menu menus gui widget input button pygame-menu image sound ui'
+__copyright__ = 'copyright to east mf'
+__description__ = 'east test'
+__email__ = 'deeznuts@asij.ac.jp'
+__keywords__ = 'unko'
 __license__ = 'MIT'
 __module_name__ = 'pygame-menu'
 __url__ = 'https://pygame-menu.readthedocs.io'
